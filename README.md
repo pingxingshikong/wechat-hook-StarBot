@@ -1,5 +1,6 @@
 # wechat-hook-StarBot
 微信机器人
+严禁将软件用于违法用途，近作学习测试使用
 
 免费的vx HOOK服务框架，提供HTTPAPI、插件的框架，版本为3.9.x
 
